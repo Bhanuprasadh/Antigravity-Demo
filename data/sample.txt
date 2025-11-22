@@ -1,0 +1,4 @@
+Gemini is a family of multimodal AI models developed by Google.
+ChromaDB is an open-source vector database.
+Streamlit is a Python library for building web apps.
+LlamaIndex is a data framework for LLM applications.
